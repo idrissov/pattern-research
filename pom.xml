@@ -12,6 +12,7 @@
         <module>pattern-adapter-example</module>
         <module>pattern-observer-example</module>
         <module>pattern-facade-example</module>
+        <module>pattern-singleton-example</module>
     </modules>
 
     <dependencyManagement>
