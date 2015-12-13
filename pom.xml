@@ -11,6 +11,7 @@
     <modules>
         <module>pattern-adapter-example</module>
         <module>pattern-observer-example</module>
+        <module>pattern-facade-example</module>
     </modules>
 
     <dependencyManagement>
