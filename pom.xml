@@ -13,6 +13,7 @@
         <module>pattern-observer-example</module>
         <module>pattern-facade-example</module>
         <module>pattern-singleton-example</module>
+        <module>pattern-proxy-example</module>
     </modules>
 
     <dependencyManagement>
