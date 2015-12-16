@@ -15,6 +15,7 @@
         <module>pattern-singleton-example</module>
         <module>pattern-proxy-example</module>
         <module>pattern-iterator-example</module>
+        <module>pattern-abstract-factory-example</module>
     </modules>
 
     <dependencyManagement>
